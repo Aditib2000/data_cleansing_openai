@@ -1,0 +1,10 @@
+cleaning/__pycache__
+config/__pycache__
+db/__pycache__
+llm/__pycache__
+pipeline/__pycache__
+venv/*
+batch_input.jsonl
+.env_new
+/__pycache__/
+pipeline/logs/batch_log_20260105.csv
